@@ -10,7 +10,6 @@ Game's file is more than 25MB, so it is unable to upload on Gibhub, so I uploade
 
 ![image alt](https://github.com/sarthakbansal2004/SHOOTING-GAME-DEVELOPED-BY-ME/blob/e963804ebcf991bcd2d0e154c3b5cd1bc8a29a10/Capture2.PNG)
 
-link of Red Ball Game: https://www.mediafire.com/folder/s2pn7h84y83ae/SHOOTING+GAME+DEVELOPED+BY+ME
-
+link of Red Ball Game: https://www.mediafire.com/file/1nvj0y0bcgy9v14/SHOOTING_GAME.zip/file
 PASSWORD OF ZIP: SARTHAK27112004
 
