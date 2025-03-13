@@ -9,8 +9,7 @@ INSTRUCTION: Person move forward by using 'W' button and Direction control by th
 Game's file is more than 25MB, so it is unable to upload on Gibhub, so I uploaded this file to MediaFire
 
 ![image alt](https://github.com/sarthakbansal2004/SHOOTING-GAME-DEVELOPED-BY-ME/blob/e963804ebcf991bcd2d0e154c3b5cd1bc8a29a10/Capture2.PNG)
-PASSWORD OF ZIP: SARTHAK27112004
 
 link of Red Ball Game: https://www.mediafire.com/folder/s2pn7h84y83ae/SHOOTING+GAME+DEVELOPED+BY+ME
-
+PASSWORD OF ZIP: SARTHAK27112004
 
